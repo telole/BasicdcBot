@@ -20,8 +20,8 @@ This Discord bot allows users to view a list of premium products through an inte
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/username/premium-product-bot.git
-   cd premium-product-bot
+   git clone [https://github.com/telole/BasicdcBot.git]
+   cd BasicdcBot
 2. **Install Depedencies**
    ```bash
    npm install
